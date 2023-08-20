@@ -10,7 +10,7 @@ I am also a student at Estácio College , a educational institution. <br>
 I consider having an intermediate level in English
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [brunomedeiros2001@hotmail.com](brunomedeiros2001@hotmail.com)
+* ✉️  You can contact me at [brunomedeiros2001@hotmail.com](mailto:brunomedeiros2001@hotmail.com)
 * 🚀  I'm currently attending the second semester of college
 * 🧠  I'm learning Advanced Javascript, HTML, CSS and some frameworks like React.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
